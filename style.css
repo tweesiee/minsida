@@ -1,0 +1,41 @@
+body {
+	margin: 0px;
+	padding: 0px;
+
+}
+
+.yolo {
+	text-align: center;
+	font-family: 'Baloo Tammudu', cursive;
+	background-color: black;
+	padding: 1px;
+	color: white;
+	opacity: 0.7;
+	font-size: 40px;
+	margin: 0px;
+}
+
+#farg {
+	color: red;
+}
+
+#fargg {
+	color: red;
+}
+
+.sida1 {
+	text-decoration: none;
+	color: white;
+	margin: 0px 20px;
+
+}
+
+#meny {
+	margin: 0px;
+	margin-bottom: 10px;
+	font-family: 'Encode Sans Condensed', sans-serif;
+}
+
+#header {
+	margin: 0px;
+}
